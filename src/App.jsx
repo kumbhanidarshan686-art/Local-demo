@@ -6,7 +6,7 @@ const App = () => {
     name :"harry",
     age :"22"
   }
-  return <div> <h2>hello</h2>
+  return <div> <h2>hello JC</h2>
    
     <Counter name={biodata.name} age={biodata.age}/>
   </div>
